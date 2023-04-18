@@ -113,6 +113,7 @@ on:
           - crrc
           - beikeyun
           - l1pro
+          -tqc-a01
           - vplus
           - tanix-tx6
       minimal_image:
