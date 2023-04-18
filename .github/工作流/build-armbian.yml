@@ -114,6 +114,7 @@ on:
           - beikeyun
           - l1pro
           - vplus
+          - tqc-a01
           - tanix-tx6
       minimal_image:
         description: "Build a minimal image."
